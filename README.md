@@ -5,9 +5,7 @@
 ### **Education & Certificates**
 **Bachelor's Degree from the Institute of Mathematics and Engineering** - (_10/2019 - 07/2024_)
 
-**Far Eastern Federal Univeristy - Russian Federation**
-
-Major: Information Systems and Technology
+Major: Information Systems and Technology - **Far Eastern Federal Univeristy - Russian Federation**
 
  - **Full scholarship from the Ministry of Education and Training Vietnam**
  - GPA: 4.3/5
@@ -35,4 +33,4 @@ Completed 9 Datacamp courses and finished 2 hands-on projects from beginner to a
 
 ***
 ### **Work experience**
-**RZD-TechService Company** - echnical Support Intern (_06/2023 - 08/2023_)
+**RZD-TechService Company** - Technical Support Intern (_06/2023 - 08/2023_)
