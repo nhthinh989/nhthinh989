@@ -21,4 +21,8 @@ My name is Thinh Nguyen. I am a recent graduate with a major in Information Syst
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nhthinh989&repo=SQL-Ecommerce-Exploring&theme=gruvbox" />
 </a>  
 
+<a href="https://github.com/nhthinh989/Cresent-Food">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nhthinh989&repo=Cresent-Food&theme=dark" />
+</a>  
 ***
