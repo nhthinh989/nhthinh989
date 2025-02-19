@@ -6,15 +6,6 @@ My name is Thinh Nguyen. I am a recent graduate with a major in Information Syst
 ***
 ### **Projects for sharing**
 
-<a href="https://github.com/nhthinh989/Python-RFM-Analysis">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nhthinh989&repo=Python-RFM-Analysis&theme=radical" />
-</a>  
-
-<a href="https://github.com/nhthinh989/Purchasing-Performance-Dashboard-PBI">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nhthinh989&repo=Purchasing-Performance-Dashboard-PBI&theme=merko" />
-</a>  
 
 <a href="https://github.com/nhthinh989/SQL-Ecommerce-Exploring">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
