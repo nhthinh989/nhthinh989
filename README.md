@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Thinh Nguyen. I am a recent graduate with a major in Information Systems and Technology from Far Eastern Federal University, Russia. I am passionate about data analysis and eager to develop my career in the field of Data Analytics.<br>
+My name is Thinh Nguyen. I am a recent graduate with a major in Information Systems and Technology from Far Eastern Federal University, Russia. Currently, I am learning Data Analysis and actively seeking opportunities to become a Data Analyst.<br>
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/huuthinhnguyen/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/vietnh1009/) 
