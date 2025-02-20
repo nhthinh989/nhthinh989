@@ -8,7 +8,7 @@ My name is Thinh Nguyen. I am a recent graduate with a major in Information Syst
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
 <a href="https://github.com/nhthinh989/Python-RFM-Analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nhthinh989&repo=Python-RFM-Analysis&theme=radical&cache_seconds=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nhthinh989&repo=Python-RFM-Analysis&theme=radical" />
 </a>
 
 
